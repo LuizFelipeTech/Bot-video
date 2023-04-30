@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LuizFelipeTech/Bot-video/issues"
   },
-  "homepage": "https://github.com/LuizFelipeTech/Bot-video#readme"
+  "homepage": "https://github.com/LuizFelipeTech/Bot-video#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
