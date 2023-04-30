@@ -1,0 +1,22 @@
+{
+  "name": "bot-video",
+  "version": "1.0.0",
+  "description": "Projeto open source para fazer robõs integrados com varias ferramentas de IA para fazerem videos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizFelipeTech/Bot-video.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuizFelipeTech/Bot-video/issues"
+  },
+  "homepage": "https://github.com/LuizFelipeTech/Bot-video#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
